@@ -1,0 +1,11 @@
+{
+    "description": "Group servers, colour them on the dashboard and give users access to whole groups at once.",
+    "autoload": {
+        "psr-4": {
+            "ServerGroups\\": "src/"
+        }
+    },
+    "config": {
+        "autoloader-suffix": "ServerGroupsExtension"
+    }
+}

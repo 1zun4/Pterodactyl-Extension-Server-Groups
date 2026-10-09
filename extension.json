@@ -1,0 +1,40 @@
+{
+    "$schema": "./node_modules/@pterodactyl/sdk/manifest.schema.json",
+    "id": "server-groups",
+    "name": "Server Groups",
+    "version": "1.0.0",
+    "requires": {
+        "panel": "^2.0.0-dev",
+        "sdk": "^2.0.0-beta.4",
+        "php": "^8.3"
+    },
+    "description": "Group servers, colour them on the dashboard and give users access to whole groups at once.",
+    "author": "Izuna Seikatsu",
+    "provider": "ServerGroups\\ServerGroupsProvider",
+    "ui": {
+        "entry": "dist/client.js",
+        "mode": "native",
+        "prefix": "sgr",
+        "screens": [
+            {
+                "id": "groups",
+                "area": "account",
+                "path": "server-groups",
+                "nav": {
+                    "label": "Server Groups",
+                    "icon": "layers"
+                }
+            },
+            {
+                "id": "admin",
+                "area": "admin",
+                "path": "server-groups",
+                "nav": {
+                    "label": "Server Groups",
+                    "icon": "layers"
+                }
+            }
+        ]
+    },
+    "icon": "layers"
+}
