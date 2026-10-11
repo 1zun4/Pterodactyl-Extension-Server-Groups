@@ -1,9 +1,9 @@
 # Server Groups for Pterodactyl
 
-[![Release](https://img.shields.io/github/v/release/1zun4/Pterodactyl-Extension-Server-Groups?style=flat-square)](https://github.com/1zun4/Pterodactyl-Extension-Server-Groups/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/1zun4/Pterodactyl-Extension-Server-Groups/total?style=flat-square)](https://github.com/1zun4/Pterodactyl-Extension-Server-Groups/releases)
+[![Release](https://img.shields.io/github/v/release/CCBlueX/Pterodactyl-Extension-Server-Groups?style=flat-square)](https://github.com/CCBlueX/Pterodactyl-Extension-Server-Groups/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/CCBlueX/Pterodactyl-Extension-Server-Groups/total?style=flat-square)](https://github.com/CCBlueX/Pterodactyl-Extension-Server-Groups/releases)
 [![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2.0-0e4688?style=flat-square)](https://pterodactyl.io)
-[![License](https://img.shields.io/github/license/1zun4/Pterodactyl-Extension-Server-Groups?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/CCBlueX/Pterodactyl-Extension-Server-Groups?style=flat-square)](LICENSE)
 
 Group servers, colour them on the dashboard and give a team access to a whole group at once.
 
@@ -11,7 +11,7 @@ Group servers, colour them on the dashboard and give a team access to a whole gr
 
 ## Install
 
-1. Download `server-groups-<version>.pteroext` from the [latest release](https://github.com/1zun4/Pterodactyl-Extension-Server-Groups/releases/latest).
+1. Download `server-groups-<version>.pteroext` from the [latest release](https://github.com/CCBlueX/Pterodactyl-Extension-Server-Groups/releases/latest).
 2. Install and enable it under **Admin → Extensions**.
 3. Create your first group under **Admin → Server Groups**.
 
